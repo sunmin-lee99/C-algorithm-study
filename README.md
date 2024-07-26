@@ -36,7 +36,7 @@ C++ 알고리즘 개념 공부를 한달간 진행함
 |2024.8.19|11. [그래프](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x18.md), [트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x19.md), [위상 정렬](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md)|
 |2024.8.21|12. [최소 신장 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1B.md), [플로이드 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1C.md)|
 |2024.8.23|13. [다익스트라 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1D.md), [KMP](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1E.md)|
-|2024.8.26|14. [트라이](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1F.md), [문자열 기초](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20A.md), [비트마스킹](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20C.md)|
+|2024.8.26|14. [트라이](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1F.md), [문자열 기초](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20A.md), 동적 배열, [비트마스킹](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20C.md)|
 
 ## 💻 Baekjoon
 SW 역량 테스트 대비를 위한 실전 문제 풀이를 한달간 진행함
