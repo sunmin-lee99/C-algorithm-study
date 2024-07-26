@@ -1,5 +1,5 @@
 # 👨‍💻 C++ Algorithm Study 2024
-C++ 알고리즘 공부 및 실전 문제 풀이 스터디
+C++ 알고리즘 공부 및 백준 실전 문제 풀이 스터디
 
 ## 📌 Study
 - 스터디 시간/장소 : 매주 수요일 오후 2시 중앙대학교
@@ -8,7 +8,7 @@ C++ 알고리즘 공부 및 실전 문제 풀이 스터디
 
 - 스터디 진행 상황 : [Algorithm Study Notion page](https://leaf-fifth-93c.notion.site/C-Coding-Test-Study-962803a3d0004201b00e5174e7f6c156?pvs=4)
 
-## ✍️ C++ Algorithm Study
+## ✍️ C++ Algorithm
 C++ 알고리즘 개념 공부를 한달간 진행함
 
 ### Study Rule
