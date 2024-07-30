@@ -24,7 +24,7 @@ C++ 알고리즘 개념 공부를 한달간 진행함
 |Due Date|진도별 문제 모음|
 |---------|---|
 |2024.7.28|1. 오리엔테이션, 기초 코드 작성 요령|
-|2024.7.28|2. [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md), [연결 리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|
+|[2024.7.29](./0729/)|2. [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md), [연결 리스트](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x04.md)|
 |2024.7.31|3. [스택](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x05.md), [큐](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x06.md), [덱](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x07.md), [스택의 활용](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x08.md)|
 |2024.8.2|4. [BFS](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x09.md), DFS, [재귀](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0B.md)|
 |2024.8.5|5. [백트래킹](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md), [시뮬레이션](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0D.md)|
