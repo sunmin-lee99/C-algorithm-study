@@ -32,6 +32,7 @@ int main(void){
             }else if(c=='<'){
                 if(pre[cursor]!=-1){cursor=pre[cursor];}
             }else if(c=='-'){
+                if(pre[cursor]==-1){continue;} // 데이터가 없는 경우 삭제할수 없다는 부분을 잊었음
                 next[pre[cursor]]=next[cursor];
                 if(next[cursor]!=-1){pre[next[cursor]]=pre[cursor];}
                 cursor = pre[cursor];
