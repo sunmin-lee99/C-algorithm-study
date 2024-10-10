@@ -2,3 +2,5 @@
 *.DS_Store
 .vscode
 *.out
+*.dSYM
+input.txt
