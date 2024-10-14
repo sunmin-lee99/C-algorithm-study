@@ -27,3 +27,9 @@
 2. unordered_multiset : 원소의 중복 허용. !erase(val)로 삭제시 중복된 값을 모두 지우게 됨!
 3. unordered_map : key에 대응되는 값을 찾아줌. key의 중복을 허용하지 않음.
 4. unordered_multimap
+
+# 해시 구현할때 유의점
+* load factor = 원소의 개수 / 테이블의 크기
+* load factor가 크면 cache hit rate가 높아지고 load factor가 작아지면 속도가 O(1)에 근접해 진다.
+* 일반적으로 Chaining에서는 1 이하, Open Addressing에서는 0.75 이하를 권장한다.
+* 하지만 코딩 테스트에서는 주어진 메모리에 따라 조절하면 된다.
